@@ -1,4 +1,4 @@
-# Shih Tzu wallet
+# Shih Mask Wallet
 
 A new Flutter project.
 
